@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using System.Security.Cryptography;
 namespace Bookmarks.Common
 {    

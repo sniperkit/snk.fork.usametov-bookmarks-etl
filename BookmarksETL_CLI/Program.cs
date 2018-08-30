@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using MongoDbImportUtil;
 using System;
 using System.IO;

@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using Bookmarks.Common;
 using HtmlAgilityPack;
 using System;
